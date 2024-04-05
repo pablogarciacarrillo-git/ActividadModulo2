@@ -1,0 +1,17 @@
+ART
+
+3D Girl model: dudhtm at https://free3d.com/3d-model/girl-blind-703979.html
+Girl Animations: Mixamo https://www.mixamo.com/#/
+Textures: Most of them are from upklyak at https://www.freepik.com/author/upklyak
+		Grass_2 texture is from babysofja at https://www.freepik.com/author/babysofja
+3D Rocks models: spenteman3 at https://www.cgtrader.com/free-3d-models/exterior/other/stylized-pbr-rocks
+
+AUDIO
+
+action music: szegvari at https://freesound.org/people/szegvari/sounds/595467/
+coin_sound: plasterbrain at https://freesound.org/people/plasterbrain/sounds/242857/
+girl_damage: MadamVicious at https://freesound.org/people/MadamVicious/sounds/218190/
+steps: falcospizaetus at https://freesound.org/people/falcospizaetus/sounds/489952/
+
+
+
