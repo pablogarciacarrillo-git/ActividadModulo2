@@ -493,6 +493,7 @@ MonoBehaviour:
   puntosPatrulla: []
   colliderAtaque: {fileID: 0}
   damage: 10
+  points: 20
 --- !u!114 &-6940786568422559565
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -514,7 +515,7 @@ NavMeshAgent:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1931298151966786}
   m_Enabled: 1
-  m_AgentTypeID: 0
+  m_AgentTypeID: -1372625422
   m_Radius: 0.5
   m_Speed: 0.5
   m_Acceleration: 8
